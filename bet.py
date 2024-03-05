@@ -1,4 +1,5 @@
 print("hello world")
-
-while True:
+a = 9
+while a > 3:
     print("none")
+    a -= 1
